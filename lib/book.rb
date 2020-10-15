@@ -23,4 +23,4 @@ outward = Book.new("Outward")
 
 outward.genre = "fantasy"
 
-puts outward.genre
+puts Book.genre
