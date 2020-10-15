@@ -11,3 +11,9 @@ class Book
   end
 
 end
+
+outward = Book.new("Outward")
+
+outward.page_count = 244 
+
+puts outward.page_count
